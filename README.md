@@ -110,7 +110,7 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 
 **Add your deployed app URL here:**
 
-[Deployed App Link](https://your-deployment-url.com)
+[Deployed App Link] https://plp-mern-stack-development.github.io/week-3-react-js-assignment-DennisAmutsa-1/)
 
 ---
 
